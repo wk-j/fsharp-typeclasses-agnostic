@@ -9,6 +9,7 @@
         "**/bin": true,
         "**/obj": true,
         "tools": true,
-        "packages": true
+        "packages": true,
+        "Backup": true
     }
 }
