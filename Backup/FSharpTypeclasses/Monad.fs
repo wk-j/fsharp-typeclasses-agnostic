@@ -1,5 +1,6 @@
 ﻿namespace InlineAbstractions.TypeClasses
 
+
 // MonadPlus class ------------------------------------------------------------
 module MonadPlus =
     type Mzero = Mzero with
